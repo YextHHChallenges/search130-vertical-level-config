@@ -78,6 +78,7 @@
     ],
     "c_restaurantType": "DINE-IN_RESTAURANT",
     "c_territory": "Texas",
+    "closed": true,
     "address": {
       "city": "Tyler",
       "countryCode": "US",
